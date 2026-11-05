@@ -1,3 +1,3 @@
 # CRUDTest
 
-This project simulates a database using `SqlConnection`.
+This project simulates CRUD Operation using MySQL database.
