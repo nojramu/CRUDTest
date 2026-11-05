@@ -8,7 +8,7 @@ namespace CRUDTest
 {
     public partial class Form1 : Form
     {
-        private readonly string connectionString = "server=localhost;database=student_db;uid=root;pwd=B@CKspaces4M;";
+        private readonly string connectionString = "server=localhost;database=student_db;uid=root;pwd=B123456;";
         private int? selectedStudentId = null;
 
         public Form1()
